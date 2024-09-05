@@ -22,4 +22,6 @@ centos
 debian
 nextcloud
 zookeeper
-kafka
+ubuntu:22.04
+ubuntu:20.04
+
